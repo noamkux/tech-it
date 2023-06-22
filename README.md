@@ -47,13 +47,10 @@ The navigation bar at the top of the page allows you to access different section
 ### Shopping Cart
 
  - The shopping cart implementation will be added in the next few weeks
+
 ## Contributing
 
-Contributions to the TechIt web store are welcome! If you have any suggestions, bug reports, or feature requests, please submit an issue on the [GitHub repository](https://github.com/your-username/techit-web-store).
-
-## License
-
-The TechIt web store is open source and released under the [MIT License](https://opensource.org/licenses/MIT).
+Contributions to the TechIt web store are welcome! If you have any suggestions, bug reports, or feature requests, please submit an issue on the [GitHub repository](https://github.com/noamkux/tech-it).
 
 ## Acknowledgements
 
