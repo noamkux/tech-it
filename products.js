@@ -407,7 +407,7 @@ function displayProductsInCards() {
     }
 
     if (document.getElementById("products").innerHTML == "") {
-        document.getElementById("products").innerHTML = `<h1 class="text-center p-5 m-5 ">Oops It Seems That We Cant Find Whay you liking for
+        document.getElementById("products").innerHTML = `<h1 class="text-center p-5 m-5 ">Oops it seems that we cant find what you were looking for
         <h2 class="text-center mb-5">Try Looking For Somthing Else</h2>
         </h1>`
 
